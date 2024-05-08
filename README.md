@@ -1,4 +1,7 @@
-# Josh
+# Home page 
+
+![BALDWIN](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSluSXTEKQcoItmhxrCPLI665pELm0GNiOtaK8awo8qKzdNZY77iWiwHSk_UPmRKo46_NM&usqp=CAU)
+
 
 ## Check List 
 
@@ -12,10 +15,18 @@
 
 - [x] Link to My HTML
 
-- [x] Add colour to My HTML 
+- [x] Add colour,text and fonts to My HTML
 
-![BALDWIN](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSluSXTEKQcoItmhxrCPLI665pELm0GNiOtaK8awo8qKzdNZY77iWiwHSk_UPmRKo46_NM&usqp=CAU)
+- [x] Add a css stylesheet to your html files. (this will be unifrom text formatting for all your webpages. )
+
+- [x] add a hyperlink back to your main webpage on your hello world webpage
+
+- [x] add the rubric webapge to your main page of your website.
+
+- [ ] add a paragraph about your chosen topic.
+
+##Links
 
 [My HTML](https://melonmuncher911.github.io/bluecable/)
 
-[Pong](https://github.com/MELONMUNCHER911/bluecable/blob/main/game.html)
+[Rubric](https://melonmuncher911.github.io/rubric/)
