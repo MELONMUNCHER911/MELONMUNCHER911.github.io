@@ -1,4 +1,26 @@
-h1{
-background-color: red;
-  
+
+p {
+  text-align: center; 
+  font-size: 30px;
+  color: Black;
+}
+
+h2 {
+  text-align:center; 
+  font-size: 60px;
+  color: AntiqueWhite;
+  }
+
+body {
+  font-family: Garamond, serif;
+}
+
+body {
+    background: CornflowerBlue;
+
+
+.center-justified {
+    margin: 0 auto;
+    text-align: justify;
+    width: 45em;
 }
