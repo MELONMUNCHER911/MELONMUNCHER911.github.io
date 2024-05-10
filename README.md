@@ -27,8 +27,8 @@
 
 ## Links
 
-[Hammerhead](https://melonmuncher911.github.io/Hammerhead/)
+[Hammerhead Shark](https://melonmuncher911.github.io/Hammerhead/)
 
-[Megamouth](https://melonmuncher911.github.io/Megamouth/)
+[Megamouth Shark](https://melonmuncher911.github.io/Megamouth/)
 
 [Rubric](https://melonmuncher911.github.io/rubric/)
