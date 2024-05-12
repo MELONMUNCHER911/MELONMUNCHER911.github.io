@@ -21,7 +21,7 @@
 
 - [x] add a hyperlink back to your main webpage on your hello world webpage
 
-- [ ] add the rubric webapge to your main page of your website.
+- [x] add the rubric webapge to your main page of your website.
 
 - [ ] add a paragraph about your chosen topic.
 
