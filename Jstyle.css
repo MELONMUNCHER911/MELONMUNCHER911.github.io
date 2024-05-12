@@ -23,3 +23,7 @@ body {
     text-align: justify;
     width: 45em;
 }
+
+img {
+  border: 5px solid #FAEBD7;
+}
