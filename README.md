@@ -33,4 +33,14 @@
 
 [Great White Shark]( https://melonmuncher911.github.io/GreatWhite/)
 
+[Bull Shark]( https://melonmuncher911.github.io/Bull/)
+
+[Frilled Shark]( https://melonmuncher911.github.io/Frilled/)
+
+[Basking Shark]( https://melonmuncher911.github.io/Basking/)
+
+[Viper Dogfish]( https://melonmuncher911.github.io/Viper/)
+
+[Angular Roughshark]( https://melonmuncher911.github.io/Angular/)
+
 [Rubric](https://melonmuncher911.github.io/rubric/)
