@@ -1,13 +1,13 @@
 p {
   text-align: center; 
   font-size: 30px;
-  color: AntiqueWhite;
+  color: GhostWhite;
 }
 
 h2 {
   text-align:center; 
   font-size: 60px;
-  color: AntiqueWhite;
+  color: Cornsilk;
   }
 
 body {
@@ -32,7 +32,7 @@ img {
   margin: 0;
   padding: 0;
   width: 200px;
-  background-color: #FAEBD7;
+  background-color: #555;
   position: fixed;
   height: 100%;
   overflow: auto;
