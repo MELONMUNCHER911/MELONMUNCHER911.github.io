@@ -1,13 +1,13 @@
 p {
   text-align: center; 
   font-size: 30px;
-  color: GhostWhite;
+  color: CornflowerBlue;
 }
 
 h2 {
   text-align:center; 
   font-size: 60px;
-  color: Cornsilk;
+  color: RoyalBlue;
   }
 
 body {
@@ -15,7 +15,7 @@ body {
 }
 
 body {
-    background: CornflowerBlue;
+    background: GhostWhite;
 
 
 .center-justified {
