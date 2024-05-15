@@ -28,54 +28,30 @@ img {
   border: 5px solid #F8F8FF;
 }
   
-.sidebar {
-  margin: 0;
-  padding: 0;
-  width: 200px;
-  background-color: #F8F8FF;
-  position: fixed;
-  height: 50%;
-  overflow: auto;
-  left:0:
-  top:0: 
+#navbar {
+  overflow: hidden;
+  background-color: #333;
 }
-  
-.sidebar a {
+
+#navbar a {
+  float: left;
   display: block;
-  color: black;
-  padding: 16px;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px;
   text-decoration: none;
 }
 
-.sidebar a.active {
-  background-color: #1E90FF;
-  color: white;
+.content {
+  padding: 16px;
 }
 
-.sidebar a:hover:not(.active) {
-  background-color: #555;
-  color: white;
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
 }
 
-div.content {
-  margin-left: 200px;
-  padding: 1px 16px;
-  height: 1000px;
-}
-
-@media screen and (max-width: 700px) {
-  .sidebar {
-    width: 100%;
-    height: auto;
-    position: relative;
-  }
-  .sidebar a {float: left;}
-  div.content {margin-left: 0;}
-}
-
-@media screen and (max-width: 400px) {
-  .sidebar a {
-    text-align: center;
-    float: none;
-  }
+.sticky + .content {
+  padding-top: 60px;
 }
