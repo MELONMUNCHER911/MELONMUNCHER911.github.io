@@ -1,13 +1,13 @@
 p {
   text-align: center; 
   font-size: 30px;
-  color: CornflowerBlue;
+  color: RoyalBlue;
 }
 
 h2 {
   text-align:center; 
   font-size: 60px;
-  color: RoyalBlue;
+  color: Sapphire;
   }
 
 body {
@@ -15,7 +15,7 @@ body {
 }
 
 body {
-    background: GhostWhite;
+    background: White;
 
 
 .center-justified {
@@ -35,7 +35,7 @@ img {
   z-index: 1; 
   top: 0; 
   left: 0;
-  background-color: #111; /* Black*/
+  background-color: #ebf2fa; 
   overflow-x: hidden; 
   padding-top: 60px; 
   transition: 0.5s; 
@@ -45,7 +45,7 @@ img {
   padding: 8px 8px 8px 32px;
   text-decoration: none;
   font-size: 25px;
-  color: #818181;
+  color: #064789;
   display: block;
   transition: 0.3s;
 }
