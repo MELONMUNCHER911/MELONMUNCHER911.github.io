@@ -8,6 +8,8 @@ h2 {
   text-align:center; 
   font-size: 60px;
   color: Navy;
+  backgroundimage: <img src="https://i.pinimg.com/originals/af/91/19/af911971a1696abfefef47ef55d4e1dd.png" alt="banner>
+  backgroundimage: opacity: 0.5;
   }
 
 body {
