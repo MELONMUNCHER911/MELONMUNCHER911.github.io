@@ -83,8 +83,11 @@ function closeNav() {
 }
 </script>
 
-.myElement {
-    background-image: url('https://png.pngtree.com/png-vector/20230824/ourmid/pngtree-shark-icon-is-shown-in-a-white-circle-vector-png-image_6921252.png');
-    width: 50px;
-    height: 50px;
-}
+.image-icon {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 30px;
+  height: 30px;
+  background-image: url("https://png.pngtree.com/png-vector/20230824/ourmid/pngtree-shark-icon-is-shown-in-a-white-circle-vector-png-image_6921252.png");
+  background-size: cover;
