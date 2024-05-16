@@ -3,7 +3,7 @@
 ![sharks](https://scx2.b-cdn.net/gfx/news/hires/2020/lifeinthesha.jpg)
 
 
-## 
+## INFO
 
 Welcome to my website about different types of sharks, Below are a list links that will take you to web pages of different sharks with some info about them.
 
