@@ -1,7 +1,7 @@
 p {
   text-align: center; 
   font-size: 30px;
-  color: SteelBlue;
+  color: Navy;
 }
 
 h2 {
@@ -25,7 +25,7 @@ body {
 }
 
 img {
-  border: 5px solid #F8F8FF;
+  border: 5px solid #03045e;
 }
   
 .sidenav {
