@@ -8,8 +8,7 @@ h2 {
   text-align:center; 
   font-size: 60px;
   color: Navy;
-  backgroundimage: href="https://cdn-icons-png.freepik.com/512/32/32631.png" 
-  }
+}
 
 body {
   font-family: Garamond, serif;
@@ -25,13 +24,7 @@ body {
     width: 45em;
 }
 
-iconimg{
-     backgroundimage: href="https://cdn-icons-png.freepik.com/512/32/32631.png" 
-      top: 30;
-      right: 30;
-      width: 30px;
-      height: 30px;
-    
+
 img {
   border: 5px solid #03045e;
 }
