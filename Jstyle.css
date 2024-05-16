@@ -1,13 +1,13 @@
 p {
   text-align: center; 
   font-size: 30px;
-  color: RoyalBlue;
+  color: SteelBlue;
 }
 
 h2 {
   text-align:center; 
   font-size: 60px;
-  color: Sapphire;
+  color: Navy;
   }
 
 body {
@@ -51,7 +51,7 @@ img {
 }
 
 .sidenav a:hover {
-  color: #f1f1f1;
+  color: #064789;
 }
 
 .sidenav .closebtn {
